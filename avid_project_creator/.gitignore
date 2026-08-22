@@ -1,0 +1,30 @@
+# Pictures
+*.jpg
+*.jpeg
+*.png
+
+# Python files
+*.pyc
+__pycache__/
+
+# Virtual Environments
+venv/
+
+# pyinstaller
+build/
+*.spec
+
+# random hidden directories
+.vscode/
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
